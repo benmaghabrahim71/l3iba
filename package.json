@@ -1,0 +1,16 @@
+{
+  "name": "orderbrahim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.15.3",
+    "st.db": "^6.0.1"
+  }
+}
